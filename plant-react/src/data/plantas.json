@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1,
+    "nome": "Abóbora",
+    "nome_cientifico": "Cucurbita moschata",
+    "epoca_plantio_sul": "Ano todo com irrigação",
+    "colheita_dias": 120,
+    "familia": "Cucurbitaceae",
+    "description": "A abóbora é uma planta rasteira amplamente cultivada por seus frutos nutritivos e versáteis.",
+    "image": "../public/img/abobora.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Alface",
+    "nome_cientifico": "Lactuca sativa",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 45,
+    "familia": "Asteraceae",
+    "description": "A alface é uma hortaliça folhosa muito consumida em saladas devido ao seu sabor leve e refrescante.",
+    "image": "../public/img/alface.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Tomate",
+    "nome_cientifico": "Solanum lycopersicum",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 90,
+    "familia": "Solanaceae",
+    "description": "O tomate é um fruto versátil utilizado em diversas receitas, rico em vitaminas e antioxidantes.",
+    "image": "../public/img/tomate.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Cenoura",
+    "nome_cientifico": "Daucus carota",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 90,
+    "familia": "Apiaceae",
+    "description": "A cenoura é uma raiz comestível rica em betacaroteno, ideal para consumo cru ou cozido.",
+    "image": "../public/img/cenoura.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Couve",
+    "nome_cientifico": "Brassica oleracea var. acephala",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Brassicaceae",
+    "description": "A couve é uma hortaliça folhosa muito nutritiva, frequentemente utilizada em refogados e sucos verdes.",
+    "image": "../public/img/couve.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Berinjela",
+    "nome_cientifico": "Solanum melongena",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 100,
+    "familia": "Solanaceae",
+    "description": "A berinjela é um fruto de sabor único, muito utilizado em pratos assados, grelhados e refogados.",
+    "image": "../public/img/berinjela.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Beterraba",
+    "nome_cientifico": "Beta vulgaris",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 70,
+    "familia": "Amaranthaceae",
+    "description": "A beterraba é uma raiz doce e nutritiva, rica em ferro e excelente para sucos e saladas.",
+    "image": "../public/img/beterraba.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Repolho",
+    "nome_cientifico": "Brassica oleracea var. capitata",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 90,
+    "familia": "Brassicaceae",
+    "description": "O repolho é uma hortaliça folhosa versátil, utilizada em saladas, refogados e conservas.",
+    "image": "../public/img/repolho.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Pepino",
+    "nome_cientifico": "Cucumis sativus",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 60,
+    "familia": "Cucurbitaceae",
+    "description": "O pepino é um fruto refrescante, ideal para saladas e sucos, com alto teor de água.",
+    "image": "../public/img/pepino.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Alho",
+    "nome_cientifico": "Allium sativum",
+    "epoca_plantio_sul": "Inverno",
+    "colheita_dias": 120,
+    "familia": "Amaryllidaceae",
+    "description": "O alho é um tempero essencial na culinária, conhecido por suas propriedades medicinais.",
+    "image": "../public/img/alho.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Cebola",
+    "nome_cientifico": "Allium cepa",
+    "epoca_plantio_sul": "Outono",
+    "colheita_dias": 150,
+    "familia": "Amaryllidaceae",
+    "description": "A cebola é um ingrediente básico em diversas receitas, com sabor marcante e propriedades antioxidantes.",
+    "image": "../public/img/cebola.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Chuchu",
+    "nome_cientifico": "Sechium edule",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 120,
+    "familia": "Cucurbitaceae",
+    "description": "O chuchu é um fruto de sabor suave, muito utilizado em sopas, refogados e saladas.",
+    "image": "../public/img/chuchu.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "Pimentão",
+    "nome_cientifico": "Capsicum annuum",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 90,
+    "familia": "Solanaceae",
+    "description": "O pimentão é um fruto colorido e versátil, utilizado em saladas, refogados e recheios.",
+    "image": "../public/img/pimentao.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "Quiabo",
+    "nome_cientifico": "Abelmoschus esculentus",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 60,
+    "familia": "Malvaceae",
+    "description": "O quiabo é um fruto muito utilizado em pratos típicos, como o famoso quiabo com carne.",
+    "image": "../public/img/quiabo.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "Rabanete",
+    "nome_cientifico": "Raphanus sativus",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 30,
+    "familia": "Brassicaceae",
+    "description": "O rabanete é uma raiz crocante e picante, ideal para saladas e conservas.",
+    "image": "../public/img/rabanete.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Espinafre",
+    "nome_cientifico": "Spinacia oleracea",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 45,
+    "familia": "Amaranthaceae",
+    "description": "O espinafre é uma hortaliça rica em ferro e vitaminas, muito utilizada em refogados e sopas.",
+    "image": "../public/img/espinafre.jpg"
+  },
+  {
+    "id": 17,
+    "nome": "Almeirão",
+    "nome_cientifico": "Cichorium intybus",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Asteraceae",
+    "description": "O almeirão é uma hortaliça de sabor levemente amargo, ideal para saladas e refogados.",
+    "image": "../public/img/almeirao.jpg"
+  },
+  {
+    "id": 18,
+    "nome": "Agrião",
+    "nome_cientifico": "Nasturtium officinale",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Brassicaceae",
+    "description": "O agrião é uma hortaliça folhosa com sabor picante, muito utilizada em saladas e sopas.",
+    "image": "../public/img/agriao.jpg"
+  },
+  {
+    "id": 19,
+    "nome": "Mostarda",
+    "nome_cientifico": "Brassica juncea",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Brassicaceae",
+    "description": "A mostarda é uma hortaliça folhosa de sabor marcante, utilizada em saladas e refogados.",
+    "image": "../public/img/mostarda.jpg"
+  },
+  {
+    "id": 20,
+    "nome": "Cebolinha",
+    "nome_cientifico": "Allium fistulosum",
+    "epoca_plantio_sul": "Ano todo",
+    "colheita_dias": 90,
+    "familia": "Amaryllidaceae",
+    "description": "A cebolinha é uma erva aromática amplamente utilizada como tempero em diversas receitas.",
+    "image": "../public/img/cebolinha.jpg"
+  },
+  {
+    "id": 21,
+    "nome": "Salsa",
+    "nome_cientifico": "Petroselinum crispum",
+    "epoca_plantio_sul": "Ano todo",
+    "colheita_dias": 90,
+    "familia": "Apiaceae",
+    "description": "A salsa é uma erva aromática muito utilizada como tempero e decoração de pratos.",
+    "image": "../public/img/salsa.jpg"
+  },
+  {
+    "id": 22,
+    "nome": "Coentro",
+    "nome_cientifico": "Coriandrum sativum",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Apiaceae",
+    "description": "O coentro é uma erva aromática de sabor marcante, muito utilizada na culinária brasileira.",
+    "image": "../public/img/coentro.jpg"
+  },
+  {
+    "id": 23,
+    "nome": "Jiló",
+    "nome_cientifico": "Solanum gilo",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 100,
+    "familia": "Solanaceae",
+    "description": "O jiló é um fruto de sabor amargo, muito utilizado em pratos típicos brasileiros.",
+    "image": "../public/img/jilo.jpg"
+  },
+  {
+    "id": 24,
+    "nome": "Maxixe",
+    "nome_cientifico": "Cucumis anguria",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 60,
+    "familia": "Cucurbitaceae",
+    "description": "O maxixe é um fruto típico da culinária nordestina, utilizado em saladas e refogados.",
+    "image": "../public/img/maxixe.jpg"
+  },
+  {
+    "id": 25,
+    "nome": "Ervilha",
+    "nome_cientifico": "Pisum sativum",
+    "epoca_plantio_sul": "Outono",
+    "colheita_dias": 90,
+    "familia": "Fabaceae",
+    "description": "A ervilha é uma leguminosa rica em proteínas, muito utilizada em sopas e saladas.",
+    "image": "../public/img/ervilha.jpg"
+  },
+  {
+    "id": 26,
+    "nome": "Feijão-vagem",
+    "nome_cientifico": "Phaseolus vulgaris",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 60,
+    "familia": "Fabaceae",
+    "description": "O feijão-vagem é uma leguminosa muito consumida em saladas e refogados.",
+    "image": "../public/img/feijao-vagem.jpg"
+  },
+  {
+    "id": 27,
+    "nome": "Brócolis",
+    "nome_cientifico": "Brassica oleracea var. italica",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 90,
+    "familia": "Brassicaceae",
+    "description": "O brócolis é uma hortaliça rica em nutrientes, muito utilizada em saladas e refogados.",
+    "image": "../public/img/brocolis.jpg"
+  },
+  {
+    "id": 28,
+    "nome": "Couve-flor",
+    "nome_cientifico": "Brassica oleracea var. botrytis",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 90,
+    "familia": "Brassicaceae",
+    "description": "A couve-flor é uma hortaliça versátil, utilizada em saladas, sopas e refogados.",
+    "image": "../public/img/couve-flor.jpg"
+  },
+  {
+    "id": 29,
+    "nome": "Acelga",
+    "nome_cientifico": "Beta vulgaris var. cicla",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Amaranthaceae",
+    "description": "A acelga é uma hortaliça folhosa rica em nutrientes, muito utilizada em refogados e saladas.",
+    "image": "../public/img/acelga.jpg"
+  },
+  {
+    "id": 30,
+    "nome": "Nabo",
+    "nome_cientifico": "Brassica rapa",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Brassicaceae",
+    "description": "O nabo é uma raiz comestível de sabor suave, ideal para sopas e saladas.",
+    "image": "../public/img/nabo.jpg"
+  },
+  {
+    "id": 31,
+    "nome": "Batata-doce",
+    "nome_cientifico": "Ipomoea batatas",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 120,
+    "familia": "Convolvulaceae",
+    "description": "A batata-doce é uma raiz rica em carboidratos e muito utilizada em pratos doces e salgados.",
+    "image": "../public/img/batata-doce.jpg"
+  },
+  {
+    "id": 32,
+    "nome": "Batata",
+    "nome_cientifico": "Solanum tuberosum",
+    "epoca_plantio_sul": "Outono",
+    "colheita_dias": 120,
+    "familia": "Solanaceae",
+    "description": "A batata é um tubérculo versátil, amplamente utilizado em diversas receitas ao redor do mundo.",
+    "image": "../public/img/batata.jpg"
+  },
+  {
+    "id": 33,
+    "nome": "Mandioquinha",
+    "nome_cientifico": "Arracacia xanthorrhiza",
+    "epoca_plantio_sul": "Outono",
+    "colheita_dias": 180,
+    "familia": "Apiaceae",
+    "description": "A mandioquinha é uma raiz de sabor adocicado, muito utilizada em purês e sopas.",
+    "image": "../public/img/mandioquinha.jpg"
+  },
+  {
+    "id": 34,
+    "nome": "Inhame",
+    "nome_cientifico": "Dioscorea alata",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 180,
+    "familia": "Dioscoreaceae",
+    "description": "O inhame é um tubérculo nutritivo, muito utilizado em sopas e pratos típicos.",
+    "image": "../public/img/inhame.jpg"
+  },
+  {
+    "id": 35,
+    "nome": "Taioba",
+    "nome_cientifico": "Xanthosoma sagittifolium",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 150,
+    "familia": "Araceae",
+    "description": "A taioba é uma hortaliça folhosa rica em ferro, muito utilizada em refogados.",
+    "image": "../public/img/taioba.jpg"
+  },
+  {
+    "id": 36,
+    "nome": "Cará",
+    "nome_cientifico": "Dioscorea spp.",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 210,
+    "familia": "Dioscoreaceae",
+    "description": "O cará é um tubérculo de sabor suave, muito utilizado em pratos típicos brasileiros.",
+    "image": "../public/img/cara.jpg"
+  },
+  {
+    "id": 37,
+    "nome": "Azedinha",
+    "nome_cientifico": "Rumex acetosa",
+    "epoca_plantio_sul": "Ano todo com irrigação",
+    "colheita_dias": 60,
+    "familia": "Polygonaceae",
+    "description": "A azedinha é uma hortaliça de sabor ácido, muito utilizada em saladas e sopas.",
+    "image": "../public/img/azedinha.jpg"
+  },
+  {
+    "id": 38,
+    "nome": "Ora-pro-nóbis",
+    "nome_cientifico": "Pereskia aculeata",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 90,
+    "familia": "Cactaceae",
+    "description": "A ora-pro-nóbis é uma planta rica em proteínas, muito utilizada em refogados e sopas.",
+    "image": "../public/img/orapronobis.jpg"
+  },
+  {
+    "id": 40,
+    "nome": "Alho-poró",
+    "nome_cientifico": "Allium ampeloprasum",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 120,
+    "familia": "Amaryllidaceae",
+    "description": "O alho-poró é uma hortaliça aromática muito utilizada em sopas e refogados.",
+    "image": "../public/img/alho-poro.jpg"
+  },
+  {
+    "id": 41,
+    "nome": "Endívia",
+    "nome_cientifico": "Cichorium endivia",
+    "epoca_plantio_sul": "Outono",
+    "colheita_dias": 90,
+    "familia": "Asteraceae",
+    "description": "A endívia é uma hortaliça folhosa de sabor levemente amargo, ideal para saladas.",
+    "image": "../public/img/endivia.jpg"
+  },
+  {
+    "id": 42,
+    "nome": "Funcho (Erva-doce)",
+    "nome_cientifico": "Foeniculum vulgare",
+    "epoca_plantio_sul": "Outono",
+    "colheita_dias": 90,
+    "familia": "Apiaceae",
+    "description": "O funcho é uma planta aromática muito utilizada em chás e pratos doces.",
+    "image": "../public/img/funcho.jpg"
+  },
+  {
+    "id": 43,
+    "nome": "Manjericão",
+    "nome_cientifico": "Ocimum basilicum",
+    "epoca_plantio_sul": "Primavera e verão",
+    "colheita_dias": 60,
+    "familia": "Lamiaceae",
+    "description": "O manjericão é uma erva aromática amplamente utilizada em molhos e saladas.",
+    "image": "../public/img/manjericao.jpg"
+  },
+  {
+    "id": 44,
+    "nome": "Cebolinha francesa",
+    "nome_cientifico": "Allium schoenoprasum",
+    "epoca_plantio_sul": "Ano todo",
+    "colheita_dias": 90,
+    "familia": "Amaryllidaceae",
+    "description": "A cebolinha francesa é uma erva aromática muito utilizada como tempero em pratos diversos.",
+    "image": "../public/img/cebolinha-francesa.jpg"
+  },
+  {
+    "id": 45,
+    "nome": "Estragão",
+    "nome_cientifico": "Artemisia dracunculus",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 120,
+    "familia": "Asteraceae",
+    "description": "O estragão é uma erva aromática de sabor marcante, muito utilizada em molhos e carnes.",
+    "image": "../public/img/estragao.jpg"
+  },
+  {
+    "id": 46,
+    "nome": "Sálvia",
+    "nome_cientifico": "Salvia officinalis",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 120,
+    "familia": "Lamiaceae",
+    "description": "A sálvia é uma erva aromática muito utilizada em pratos de carne e massas.",
+    "image": "../public/img/salvia.jpg"
+  },
+  {
+    "id": 47,
+    "nome": "Tomilho",
+    "nome_cientifico": "Thymus vulgaris",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 100,
+    "familia": "Lamiaceae",
+    "description": "O tomilho é uma erva aromática amplamente utilizada em marinadas e sopas.",
+    "image": "../public/img/tomilho.jpg"
+  },
+  {
+    "id": 48,
+    "nome": "Hortelã",
+    "nome_cientifico": "Mentha spp.",
+    "epoca_plantio_sul": "Ano todo com irrigação",
+    "colheita_dias": 60,
+    "familia": "Lamiaceae",
+    "description": "A hortelã é uma erva aromática refrescante, muito utilizada em chás e sobremesas.",
+    "image": "../public/img/hortela.jpg"
+  },
+  {
+    "id": 49,
+    "nome": "Alecrim",
+    "nome_cientifico": "Rosmarinus officinalis",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 120,
+    "familia": "Lamiaceae",
+    "description": "O alecrim é uma erva aromática de sabor marcante, muito utilizada em carnes e pães.",
+    "image": "../public/img/alecrim.jpg"
+  },
+  {
+    "id": 50,
+    "nome": "Cerefólio",
+    "nome_cientifico": "Anthriscus cerefolium",
+    "epoca_plantio_sul": "Outono e inverno",
+    "colheita_dias": 60,
+    "familia": "Apiaceae",
+    "description": "O cerefólio é uma erva aromática delicada, muito utilizada em sopas e saladas.",
+    "image": "../public/img/cerefolo.jpg"
+  },
+  {
+    "id": 51,
+    "nome": "Capuchinha",
+    "nome_cientifico": "Tropaeolum majus",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 60,
+    "familia": "Tropaeolaceae",
+    "description": "A capuchinha é uma planta comestível de flores coloridas, muito utilizada em saladas.",
+    "image": "../public/img/capuchinha.jpg"
+  },
+  {
+    "id": 52,
+    "nome": "Malva",
+    "nome_cientifico": "Malva sylvestris",
+    "epoca_plantio_sul": "Primavera",
+    "colheita_dias": 60,
+    "familia": "Malvaceae",
+    "description": "A malva é uma planta medicinal conhecida por suas propriedades calmantes e anti-inflamatórias.",
+    "image": "../public/img/malva.jpg"
+  }
+]
+
+
