@@ -9,7 +9,7 @@ import { useHorta } from "@/context/HortaContext";
 export default function Search() {
   const [selecionada, setSelecionada] = useState<Plant | null>(null);
   const { favoritos, toggleFavorito } = useFavoritos();
-  const { adicionarPlanta, horta } = useHorta();
+  const { adicionarPlanta } = useHorta();
 
   return (
     <div className="p-6 max-w-4xl mx-auto">
