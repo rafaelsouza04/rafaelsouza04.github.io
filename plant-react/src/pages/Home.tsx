@@ -19,7 +19,7 @@ const Home = () => {
       <section className="min-h-[calc(100vh-4rem)] relative flex flex-col items-center justify-center px-6 py-12">
         <div className="max-w-4xl mx-auto text-center z-10">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-green-700 mb-6 leading-tight">
-            Bem-vindo ao Mundoo das Plantas 🌱
+            Bem-vindo ao Mundo das Plantas 🌱
           </h1>
           <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-2xl mx-auto">
             Aprenda sobre a diversidade das plantas, descubra suas características e contribua para um futuro mais verde!
