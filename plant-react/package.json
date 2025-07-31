@@ -11,7 +11,9 @@
     "lint": "eslint",
     "format": "prettier",
     "check": "prettier --write . && eslint --fix",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "copy-dist-to-root": "cpx \"dist/**/*\" ../",
+    "deploy": "npm run build && npm run copy-dist-to-root && cd ../ && git add . && git commit -m \"Deploy automático via script\" && git push origin main"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.6",
@@ -34,6 +36,7 @@
     "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.21",
+    "cpx": "^1.5.0",
     "gh-pages": "^6.3.0",
     "jsdom": "^26.0.0",
     "postcss": "^8.5.3",
